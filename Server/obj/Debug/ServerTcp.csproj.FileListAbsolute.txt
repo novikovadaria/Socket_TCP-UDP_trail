@@ -1,0 +1,7 @@
+C:\Users\79384\Рабочий стол\Сокеты\Server\bin\Debug\Lesson18.exe.config
+C:\Users\79384\Рабочий стол\Сокеты\Server\bin\Debug\Lesson18.exe
+C:\Users\79384\Рабочий стол\Сокеты\Server\bin\Debug\Lesson18.pdb
+C:\Users\79384\Рабочий стол\Сокеты\Server\obj\Debug\ServerTcp.csproj.AssemblyReference.cache
+C:\Users\79384\Рабочий стол\Сокеты\Server\obj\Debug\ServerTcp.csproj.CoreCompileInputs.cache
+C:\Users\79384\Рабочий стол\Сокеты\Server\obj\Debug\Lesson18.exe
+C:\Users\79384\Рабочий стол\Сокеты\Server\obj\Debug\Lesson18.pdb
